@@ -3,7 +3,7 @@
 This project implements :
 1. Using BloC state management library
 2. Favorite Restaurant
-   •	Add and remove restaurants from the favorites list using the local database.
+   - Add and remove restaurants from the favorites list using the local database.
    •	The app has a page to display the favorites list.
    •	Display the detail page of the favorites list.
 4. Daily Reminder
