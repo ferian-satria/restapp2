@@ -1,6 +1,26 @@
-# restapp2
+# Favorite Restaurant App
 
-A new Flutter project.
+This project implements :
+1. Using BloC state management library
+2. Favorite Restaurant
+  •	Add and remove restaurants from the favorites list using the local database.
+  •	The app has a page to display the favorites list.
+  •	Display the detail page of the favorites list.
+3. Daily Reminder
+  •	There are settings for switching reminders on and off in the settings page.
+  •	Daily reminder to display random restaurants at 11:00 AM.
+4. Testing
+  •	There is one test scenario to verify the json parsing process has been successful.
+5. Restaurant List
+  •	Display a list of restaurants with brief information from the API.
+  •	Display the restaurant image obtained from the API.
+6. Restaurant Details
+  •	Display detailed information when an item is tapped, like a description, city, rating, food menu and drink menu.
+7. Restaurant Search
+  •	Display restaurant search results based on menu or restaurant name.
+8. There is a loading indicator when the app loads data.
+9. Display error messages that are easily understood by users when the application is accessed without an internet connection.
+
 
 ## Getting Started
 
