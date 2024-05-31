@@ -1,0 +1,3 @@
+Small resolution: https://restaurant-api.dicoding.dev/images/small/<pictureId>
+Medium resolution: https://restaurant-api.dicoding.dev/images/medium/<pictureId>
+Large resolution: https://restaurant-api.dicoding.dev/images/large/<pictureId>
